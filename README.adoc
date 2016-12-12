@@ -260,3 +260,4 @@ Python projemizi de bu şekilde açmış olduk. Artık Python dilinde kodlama ya
 image::r33.png[son]
 
 == 6) Windows'a Python Kurulumu 
+image::1.png[1]
