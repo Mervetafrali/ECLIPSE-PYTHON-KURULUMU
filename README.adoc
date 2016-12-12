@@ -278,6 +278,7 @@ Resim 3: Python İndirme +
 image::4.png[4]
 Resim 4: Python İndirme +
 
+Açılan sayfalarda "Next" butonuna tıklayarak devam ediniz.
 
 image::5.png[5]
 Resim 5: Python İndirme +
@@ -291,3 +292,11 @@ Tüm işlemleri yaptıktan sonra programda syntax hatası veriyor ise yada progr
 2.7’si olup olmadığını kontrol ediniz. +
 Eğer bilgisayarınızda Python’a ait başka sürümler varsa denetim masasından kaldırıp sadece 2.7 sürümü olduğundan emin olunuz. +
 
+== 7)Referanslar +
+. http://www.serkanturkel.net/2014/03/java-sistem-ayarlar-jdk-ve-eclipse.html +
+. http://www.kodlamamerkezi.com/java/java-jdk-ve-eclipse-kurulumu/ +
+. https://www.ics.uci.edu/~pattis/common/handouts/pythoneclipsejava/eclipsepython.html +
+. http://forum.ceviz.net/t/eclipse-idede-python-programlama-kullanimi.49010/ +
+. http://download.eclipse.org/oomph/jre/?vm=2_1_8_0_64_0&pn=Eclipse%20IDE%20for%20Java%20Developers&pi=http://www.eclipse.org/downloads/images/java.png +
+. http://www.pydev.org/manual_101_install.html +
+. http://stackoverflow.com/questions/19688424/why-is-apt-get-function-not-working-in-terminal-on-mac-osx-10-9 +
