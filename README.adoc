@@ -260,4 +260,34 @@ Python projemizi de bu şekilde açmış olduk. Artık Python dilinde kodlama ya
 image::r33.png[son]
 
 == 6) Windows'a Python Kurulumu 
+Windows'a Python kurulumu için, https://www.python.org/downloads/ adresinden *Download Python 2.7.12* indiriniz. +
+
 image::1.png[1]
+Resim 1: Python İndirme Sayfası +
+
+İndirme işlemi bittikten sonra Resim 2 de açılan pencerede "install for all users" seçeneğini seçtin ve Next buyonuna basınız.
+
+image::2.png[2]
+Resim 2: Python İndirme  +
+
+Yeni açılan sayfada "next" butonunu seçiniz.
+
+image::3.png[3]
+Resim 3: Python İndirme +
+
+image::4.png[4]
+Resim 4: Python İndirme +
+
+
+image::5.png[5]
+Resim 5: Python İndirme +
+
+image::6.png[6]
+Resim 6: Python İndirme +
+
+Yükleme işlemi tamamladıktan sonra "Finish" butonuna basınız.
+
+Tüm işlemleri yaptıktan sonra programda syntax hatası veriyor ise yada program çalışmıyorsa, bilgisayarınızda sadece python sürümünün  
+2.7’si olup olmadığını kontrol ediniz. +
+Eğer bilgisayarınızda Python’a ait başka sürümler varsa denetim masasından kaldırıp sadece 2.7 sürümü olduğundan emin olunuz. +
+
